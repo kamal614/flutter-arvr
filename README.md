@@ -1,16 +1,14 @@
-# google\_ml\_kit example app
+AR-VR Implementation:
 
-Demonstrates how to use the google_mlkit plugins.
+• Implement AR-VR functionality within the Flutter app to overlay an
+emoji or sticker over a user's face. Ensure the overlay only covers the
+face area.
+• Optimize the code for performance, ensuring a good frame per
+second (FPS) on the camera screen page.
 
-This example app is not production code, its purpose is to demonstrate some of the functionality of all the plugins found [here](https://github.com/flutter-ml/google_ml_kit_flutter/tree/master). If you find any issue with it fell free to contribute. Pull request are always welcome.
+Flutter Setup
+1. Just clone the code into system and it is ready to use.
+Ps: Make sure the app will not run on the emulator as it requires the real camera to work.
 
-## Getting Started with Flutter
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+APK file: https://drive.google.com/file/d/1XkCP8qb-dvB7e6K3W7MufMwtNSJ6OhvS/view?usp=share_link
+Video:  https://drive.google.com/file/d/1A5lwhuDyXBIzJvZHotcR36FUy1g2XBGA/view?usp=drivesdk
